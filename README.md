@@ -1,0 +1,2 @@
+- validate that options are present
+- validate form submission for new input types
